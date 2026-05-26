@@ -4,7 +4,7 @@ TechGadget Store is a responsive static ecommerce website for a South African te
 
 ## Live Site
 
-Netlify project URL: [techgadget-store-uct-portfolio.netlify.app](https://techgadget-store-uct-portfolio.netlify.app)
+Netlify project URL: [techgadget-store-uct-portfolio.netlify.app]([https://techgadget-store-uct-portfolio.netlify.app](https://inf3014f-project-mkgbru001.netlify.app/))
 
 ## Project Overview
 
